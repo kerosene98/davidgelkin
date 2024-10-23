@@ -31,7 +31,7 @@ I bring strategic guidance and access to a network of resources that can support
 For enquiries about potential investment opportunities, please get in touch via:
 
 - **Email**: [david@davidgelkin.com](mailto:david@davidgelkin.com)
-- **LinkedIn**: [David Gelkin](https://www.linkedin.com/in/david-gelkin-investor){:target="_linkedin_profile"}
+- **LinkedIn**: <a href="https://www.linkedin.com/in/david-gelkin-investor" target="_blank">David Gelkin investor</a>
 - **Call Company**: +44 (0)204 5385300
 
 ---
